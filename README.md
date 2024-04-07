@@ -1,6 +1,15 @@
 # ucdp-23.1-482
 Uppsala Conflict Data Program (UCDP) Georeferenced Events Dataset (GED) version 23.1 for Central African Republic (482)
 
+## Demo
+### PMTiles Viewer
+https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Foptgeo.github.io%2Fucdp-23.1-482%2FGEDEvent_v23_1.pmtiles
+
+## Product
+- PMTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.pmtiles
+- MBTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.mbtiles
+- FlatGeobuf file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.flatgeobuf
+
 ## Source
 https://ucdp.uu.se/downloads/index.html#ged_global
 
