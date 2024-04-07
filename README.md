@@ -5,6 +5,9 @@ Uppsala Conflict Data Program (UCDP) Georeferenced Events Dataset (GED) version 
 ### PMTiles Viewer
 https://protomaps.github.io/PMTiles/?url=https%3A%2F%2Foptgeo.github.io%2Fucdp-23.1-482%2FGEDEvent_v23_1.pmtiles
 
+### Observable
+TO BE DEVELOPED. 
+
 ## Product
 - PMTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.pmtiles
 - MBTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.mbtiles
