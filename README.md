@@ -12,6 +12,7 @@ TO BE DEVELOPED.
 - PMTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.pmtiles
 - MBTiles file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.mbtiles
 - FlatGeobuf file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.flatgeobuf
+- GeoJSON file at https://optgeo.github.io/ucdp-23.1-482/GEDEvent_v23_1.geojson
 
 ## Source
 https://ucdp.uu.se/downloads/index.html#ged_global
